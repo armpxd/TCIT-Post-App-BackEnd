@@ -1,5 +1,7 @@
 # TCIT-Post-App-BackEnd
 
+## Recuerde antes de iniciar el proyecto utilizar
+`npm i` para instalar los node_modules
 ## Para correr el proyecto
 usar comando: `npm run dev`
 
